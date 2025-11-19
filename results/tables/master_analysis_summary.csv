@@ -1,0 +1,2 @@
+"Analysis_Date","Total_Genes_in_Matrix","Total_lncRNAs_Analyzed","Total_Protein_Coding_Genes","lncRNAs_with_Functional_Enrichment","Average_GO_BP_Terms_per_lncRNA","Average_KEGG_Pathways_per_lncRNA","Average_Correlation_Strength","Top_Functional_Category","Most_Functionally_Diverse_lncRNA","Functional_Diversity_Score"
+2025-11-13,11365,3645,7302,50,475.1,39.4,0.86,"Immune response regulation","ENSG00000242588",1295
